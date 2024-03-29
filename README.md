@@ -1,19 +1,10 @@
 # KNUMLSA_ITBooth_Prepare
 
-| 세션 | 참고 | 자료 | 질문 | 비고 |
+| 세션 | 참고 | 자료 | 질문 |    비고  |
 |------|------|------|------|----------|
 | MLSA 소개 & Azure for Students 가입 | MLSA Discord 상세 필독 요망 | [Azure for Students 가입 방법 자료](https://github.com/KNU-MLSA/2023_10_Sessions/blob/main/1_AI%EB%A1%9C%EC%97%B0%EC%95%A0%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/Azure%20for%20Students%20%EA%B0%80%EC%9E%85%20%EB%B0%A9%EB%B2%95.pdf) | 1. MLSA가 뭔지<br>2. MLSA 혜택<br>3. MLSA 활동 목표<br>4. MLSA가 되는 방법(discord 참고)<br>5. MLSA가 되는 pathway 각각에 대해 추가로 상세 설명<br>6. GDSC, 멋쟁이사자같은 IT 동아리와 다른 점<br>|   |
 
-| FE | | [React 프로젝트 템플릿](https://github.com/education/codespaces-project-template-js) | 프론트엔드 뜻? -> 쉬운 설명 하나(웹에서 눈에 보이는 것들..이런)와 영역 구분(로그인 사이트에서 버튼, 입력 창 등 이런건 프론트엔드 부분이고, 사용자가 입력한 id가 올바른지 조회하는 건 백 영역) 내용 참고해서 React 설명 추가 초딩도 알아들을 수 있는 쉬운 정의
-실제 예(react로 만들어진 사이트), vanila js 코딩, vue.js 등과 다른 점은?
-실무에서 많이 쓰이는지(얼만큼, 대략적 점유율) | |
-| Azure Static Webapp 특징 | | | Azure Static Webapp 에서 제공하는 서비스들
-CI/CD 한 줄로 쉽게 정의해 주세요
-Azure Static Webapp에서 어떻게 CI/CD 파이프라인을 제공하는지
-Azure Static Webapp의 React 앱 배포에서 지원되는 메모리나 리소스 크기
-Azure Static Webapp 무료 플랜으로 상업적 이용 가능한지
-기존 서버에서의 React 배포와 Azure Static Webapp 배포 간의 차이
-Azure Static Webapp으로 배포된 앱의 유효 기간 | 3.4 오후 7시~ 3.6 오후 7시~ |
+| FE | | [React 프로젝트 템플릿](https://github.com/education/codespaces-project-template-js) | 1.프론트엔드 뜻?<br>  -> 쉬운 설명 하나(웹에서 눈에 보이는 것들..이런)와 영역 구분(로그인 사이트에서 버튼,<br> 입력 창 등 이런건 프론트엔드 부분이고, <br> 사용자가 입력한 id가 올바른지 조회하는 건 백 영역) 내용 참고해서<br>  React 설명 추가 초딩도 알아들을 수 있는 쉬운 정의<br> 2.실제 예(react로 만들어진 사이트), vanila js 코딩, vue.js 등과 다른 점은?<br> 3.실무에서 많이 쓰이는지(얼만큼, 대략적 점유율) <br> 4. Azure Static Webapp 특징 <br> 5.Azure Static Webapp 에서 제공하는 서비스들<br>6.CI/CD를 한 줄로 쉽게 정의해 주세요<br>6.Azure Static Webapp에서 어떻게 CI/CD 파이프라인을 제공하는지<br>7.Azure Static Webapp의 React 앱 배포에서 지원되는 메모리나 리소스 크기<br>8.Azure Static Webapp 무료 플랜으로 상업적 이용 가능한지<br>9.기존 서버에서의 React 배포와 Azure Static Webapp 배포 간의 차이<br>10.Azure Static Webapp으로 배포된 앱의 유효 기간 |   |
 | Devops | | [Vscode 레포지토리 만들기 및 codespace 사용법 영상](https://youtu.be/huNRWtL-GF8?si=PUolE77zLLdp8D5z) | devops가 뭔가요
 클라우드가 뭔가요
 ci/cd가 뭔가요
